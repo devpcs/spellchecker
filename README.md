@@ -1,10 +1,10 @@
 # spellchecker
 Spell Checker for entire website
 
-#Install requirements
+# Install requirements
 pip install -r requirements.txt
 
-#run 
+# run 
 python spellchecker.py -u murul.com
 
 
