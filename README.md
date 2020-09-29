@@ -15,4 +15,5 @@ python spellchecker.py -u murul.com
 
 3. URL has to be full URL with schema. ie. https://www. < website > .com. 
  
-<a href="https://www.pivotcloudsolutions.com">Pivot Cloud Plaform</a> AI version is also avaible but only for platfrom users.
+<a href="https://www.pivotcloudsolutions.com">Pivot Cloud Plaform</a> AI version is also avaible but only for platform users.
+
