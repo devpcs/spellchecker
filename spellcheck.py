@@ -54,11 +54,11 @@ def main(argv):
    try:
       opts, args = getopt.getopt(argv,"hu:",["url="])
    except getopt.GetoptError:
-      print 'spellcheck.py -u <https://webiste.com>'
+      print( 'spellcheck.py -u <https://webiste.com>')
       sys.exit(2)
    for opt, arg in opts:
       if opt == '-h':
-         print 'spellcheck.py -u <https://webiste.com>'
+         print ('spellcheck.py -u <https://webiste.com>')
          sys.exit()
       elif opt in ("-u", "--url"):
          url = arg
